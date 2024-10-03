@@ -25,4 +25,4 @@
 ![下载界面](https://github.com/SectionIstool/SectionIstool/raw/main/ScreenSots/ClassIsland_Page.png)
 
 ## License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSectionIstool%2FSectionIstool.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FSectionIstool%2FSectionIstool?ref=badge_large&issueType=license)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flzy98276%2FSectionIstool.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Flzy98276%2FSectionIstool?ref=badge_large&issueType=license)
