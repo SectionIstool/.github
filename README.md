@@ -1,6 +1,6 @@
 <div align="center">
 
-<image src="https://github.com/SectionIstool/SectionIstool/resources/SectionIstool_icon.png" height="128"/>
+<image src="https://github.com/SectionIstool/SectionIstool/raw/main/resources/SectionIstool_icon.png" height="128"/>
 
 # SectionIstool
 
@@ -21,8 +21,8 @@
 > **此项目仍在早期开发中，使用过程中可能会遇到一些未知的问题！**
 
 ## 软件截图
-![关于界面](https://github.com/SectionIstool/SectionIstool/ScreenSots/about_Page.png)
-![下载界面](https://github.com/SectionIstool/SectionIstool/ScreenSots/ClassIsland_Page.png)
+![关于界面](https://github.com/SectionIstool/SectionIstool/raw/main/about_Page.png)
+![下载界面](https://github.com/SectionIstool/SectionIstool/raw/main/ClassIsland_Page.png)
 
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSectionIstool%2FSectionIstool.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FSectionIstool%2FSectionIstool?ref=badge_large&issueType=license)
